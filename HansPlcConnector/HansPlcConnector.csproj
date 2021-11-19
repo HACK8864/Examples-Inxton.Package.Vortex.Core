@@ -5,7 +5,7 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Inxton.Package.Vortex.Core" Version="1.9.6" />
+    <PackageReference Include="Inxton.Package.Vortex.Core" Version="1.15.4" />
 	<PackageReference Include="Inxton.Vortex.Framework.Abstractions" Version="1.9.6" />
 	<PackageReference Include="Inxton.Vortex.Compiler.Console" Version="1.9.6" />
   </ItemGroup>
